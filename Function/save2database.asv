@@ -1,13 +1,12 @@
  function save2database(s,fs,centroid,speaker_id,row,name)
- 
- load("database.dat","-mat");
+ load("database.dat")
   
-% row = 2;
-% speaker_id = 2;
-% centroid =16;
-% name = 'someone';
+stt = 2;
+speaker_id = 2;
+centroid =16;
+name = 'someone';
 
-i = row;
+i = stt;
 id = speaker_id;
 k = centroid*2;
 s(s==0)=[];
