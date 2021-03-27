@@ -1,0 +1,1749 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/ProgramData/MATLAB/SupportPackages/R2019b_2/toolbox/target/supportpackages/stm32f4discovery/src/libpdmfilter.a(pdmfilter.o)
+                              stm32f4discovery_mp45dt02_mems_mic.o (pdm_filter)
+C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+                              stm32f4discovery_vadG729.o (arm_biquad_cascade_df2T_f32)
+C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+                              stm32f4discovery_vadG729.o (arm_biquad_cascade_df2T_init_f32)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+                              stm32f4discovery_vadG729.o (acos)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+                              stm32f4discovery_vadG729.o (fmod)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+                              stm32f4discovery_vadG729.o (log10)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o) (__ieee754_acos)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o) (__ieee754_fmod)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o) (__ieee754_log10)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_sqrt.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o) (__ieee754_sqrt)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_fabs.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o) (fabs)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_lib_ver.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o) (__fdlib_version)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_matherr.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o) (matherr)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_nan.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o) (nan)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o) (__ieee754_log)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+                              stm32f4discovery_vadG729.o (__aeabi_dsub)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+                              stm32f4discovery_vadG729.o (__aeabi_dmul)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+                              rt_nonfinite.o (__aeabi_dcmpeq)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o) (__aeabi_dcmpun)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              stm32f4discovery_audio_common.o (__aeabi_d2uiz)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+                              stm32f4discovery_vadG729.o (__aeabi_d2f)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+                              ext_svr_serial_transport.o (calloc)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-errno.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o) (__errno)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                              ext_svr.o (malloc)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                              ext_svr_serial_transport.o (memcpy)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o) (_calloc_r)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o) (_free_r)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o) (_malloc_r)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                              syscalls_stm32f4xx.o (errno)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+                              ext_svr_serial_transport.o (strcmp)
+c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                              c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+
+Allocating common symbols
+Common symbol       size              file
+
+MW_MIC_Data1        0x280             stm32f4discovery_mp45dt02_mems_mic.o
+rtNaNF              0x4               rt_nonfinite.o
+errno               0x4               c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+stm32f4discovery_vadG729_M_
+                    0x48              stm32f4discovery_vadG729.o
+MW_MIC_Data0        0x280             stm32f4discovery_mp45dt02_mems_mic.o
+stm32f4discovery_vadG729_DW
+                    0x5e8             stm32f4discovery_vadG729.o
+MW_pcm_data_holder  0x4               stm32f4discovery_mp45dt02_mems_mic.o
+rtInfF              0x4               rt_nonfinite.o
+rtInf               0x8               rt_nonfinite.o
+rtNaN               0x8               rt_nonfinite.o
+rtMinusInf          0x8               rt_nonfinite.o
+schdl_counter_max   0x4               SysTickScheduler.o
+stm32f4discovery_vadG729_B
+                    0xdb4             stm32f4discovery_vadG729.o
+MW_pcm_data0        0xa0              stm32f4discovery_mp45dt02_mems_mic.o
+schdl_counter       0x4               SysTickScheduler.o
+rtMinusInfF         0x4               rt_nonfinite.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x00000000        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .text          0x00000000        0x0 SysTickScheduler.o
+ .data          0x00000000        0x0 SysTickScheduler.o
+ .bss           0x00000000        0x0 SysTickScheduler.o
+ .text          0x00000000        0x0 blapp_support.o
+ .data          0x00000000        0x0 blapp_support.o
+ .bss           0x00000000        0x0 blapp_support.o
+ .text.bootloaderBackgroundTask
+                0x00000000        0x4 blapp_support.o
+ .text          0x00000000        0x0 ert_main.o
+ .data          0x00000000        0x0 ert_main.o
+ .bss           0x00000000        0x0 ert_main.o
+ .text          0x00000000        0x0 ext_serial_pkt.o
+ .data          0x00000000        0x0 ext_serial_pkt.o
+ .bss           0x00000000        0x0 ext_serial_pkt.o
+ .text          0x00000000        0x0 ext_svr.o
+ .data          0x00000000        0x0 ext_svr.o
+ .bss           0x00000000        0x0 ext_svr.o
+ .text.UploadServerWork
+                0x00000000       0x10 ext_svr.o
+ .text          0x00000000        0x0 ext_svr_serial_transport.o
+ .data          0x00000000        0x0 ext_svr_serial_transport.o
+ .bss           0x00000000        0x0 ext_svr_serial_transport.o
+ .text          0x00000000        0x0 ext_work.o
+ .data          0x00000000        0x0 ext_work.o
+ .bss           0x00000000        0x0 ext_work.o
+ .text.rtExtModePauseIfNeeded
+                0x00000000       0x64 ext_work.o
+ .text.rtExtModeParseArgs
+                0x00000000        0x8 ext_work.o
+ .text.rtERTExtModeSetTFinal
+                0x00000000        0x4 ext_work.o
+ .text          0x00000000        0x0 m3m4m4f_multitasking.o
+ .data          0x00000000        0x0 m3m4m4f_multitasking.o
+ .bss           0x00000000        0x0 m3m4m4f_multitasking.o
+ .text          0x00000000        0x0 misc.o
+ .data          0x00000000        0x0 misc.o
+ .bss           0x00000000        0x0 misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x14 misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x14 misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x18 misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 misc.o
+ .text          0x00000000        0x0 rtGetInf.o
+ .data          0x00000000        0x0 rtGetInf.o
+ .bss           0x00000000        0x0 rtGetInf.o
+ .text          0x00000000        0x0 rtGetNaN.o
+ .data          0x00000000        0x0 rtGetNaN.o
+ .bss           0x00000000        0x0 rtGetNaN.o
+ .text          0x00000000        0x0 rt_nonfinite.o
+ .data          0x00000000        0x0 rt_nonfinite.o
+ .bss           0x00000000        0x0 rt_nonfinite.o
+ .text.rtIsInf  0x00000000       0x44 rt_nonfinite.o
+ .text.rtIsNaN  0x00000000       0x24 rt_nonfinite.o
+ .text          0x00000000        0x0 rtiostream_serial_dma_stm32f4xx.o
+ .data          0x00000000        0x0 rtiostream_serial_dma_stm32f4xx.o
+ .bss           0x00000000        0x0 rtiostream_serial_dma_stm32f4xx.o
+ .text.rtIOStreamSend2
+                0x00000000       0x48 rtiostream_serial_dma_stm32f4xx.o
+ .text          0x00000000        0x0 rtiostream_serial_interface.o
+ .data          0x00000000        0x0 rtiostream_serial_interface.o
+ .bss           0x00000000        0x0 rtiostream_serial_interface.o
+ .text          0x00000000        0x0 rtiostream_utils.o
+ .data          0x00000000        0x0 rtiostream_utils.o
+ .bss           0x00000000        0x0 rtiostream_utils.o
+ .text          0x00000000        0x0 startup_stm32f4xx.o
+ .data          0x00000000        0x0 startup_stm32f4xx.o
+ .bss           0x00000000        0x0 startup_stm32f4xx.o
+ .text          0x00000000        0x0 stm32f4discovery_audio_common.o
+ .data          0x00000000        0x0 stm32f4discovery_audio_common.o
+ .bss           0x00000000        0x0 stm32f4discovery_audio_common.o
+ .text          0x00000000        0x0 stm32f4discovery_mp45dt02_mems_mic.o
+ .data          0x00000000        0x0 stm32f4discovery_mp45dt02_mems_mic.o
+ .bss           0x00000000        0x0 stm32f4discovery_mp45dt02_mems_mic.o
+ .text.mems_mic_gpio_init
+                0x00000000       0x54 stm32f4discovery_mp45dt02_mems_mic.o
+ .text.stm32f4_mic_i2s_init
+                0x00000000       0x68 stm32f4discovery_mp45dt02_mems_mic.o
+ .text          0x00000000        0x0 stm32f4discovery_vadG729.o
+ .data          0x00000000        0x0 stm32f4discovery_vadG729.o
+ .bss           0x00000000        0x0 stm32f4discovery_vadG729.o
+ .text.MWDSP_Poly2Lsp_compute_xXI1XkRD
+                0x00000000       0x5c stm32f4discovery_vadG729.o
+ .text.MWDSP_Poly2Lsp_chebyso_5YbHyn0D
+                0x00000000       0xac stm32f4discovery_vadG729.o
+ .text.MWDSP_Poly2Lsp_S_l6LrihYj
+                0x00000000      0x5e8 stm32f4discovery_vadG729.o
+ .text.MWDSP_Poly2Lsfr_S_Pj4Rfalb
+                0x00000000       0x4c stm32f4discovery_vadG729.o
+ .text          0x00000000        0x0 stm32f4discovery_vadG729_data.o
+ .data          0x00000000        0x0 stm32f4discovery_vadG729_data.o
+ .bss           0x00000000        0x0 stm32f4discovery_vadG729_data.o
+ .text          0x00000000        0x0 stm32f4xx_dma.o
+ .data          0x00000000        0x0 stm32f4xx_dma.o
+ .bss           0x00000000        0x0 stm32f4xx_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x24 stm32f4xx_dma.o
+ .text.DMA_PeriphIncOffsetSizeConfig
+                0x00000000       0x14 stm32f4xx_dma.o
+ .text.DMA_FlowControllerConfig
+                0x00000000       0x14 stm32f4xx_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000        0x4 stm32f4xx_dma.o
+ .text.DMA_DoubleBufferModeConfig
+                0x00000000       0x18 stm32f4xx_dma.o
+ .text.DMA_GetFIFOStatus
+                0x00000000        0x8 stm32f4xx_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x3c stm32f4xx_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x30 stm32f4xx_dma.o
+ .text          0x00000000        0x0 stm32f4xx_gpio.o
+ .data          0x00000000        0x0 stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x00000000      0x118 stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x24 stm32f4xx_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000        0xc stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 stm32f4xx_gpio.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 stm32f4xx_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000        0x4 stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000        0x8 stm32f4xx_gpio.o
+ .text          0x00000000        0x0 stm32f4xx_gpio_wrapper.o
+ .data          0x00000000        0x0 stm32f4xx_gpio_wrapper.o
+ .bss           0x00000000        0x0 stm32f4xx_gpio_wrapper.o
+ .text.GpioClockEnableBit
+                0x00000000        0x8 stm32f4xx_gpio_wrapper.o
+ .text.MW_RCC_AHB1PeriphClockCmd
+                0x00000000        0xc stm32f4xx_gpio_wrapper.o
+ .text.MW_GPIO_ReadInputDataBit
+                0x00000000       0x18 stm32f4xx_gpio_wrapper.o
+ .text.MW_GPIO_ToggleBits
+                0x00000000       0x1c stm32f4xx_gpio_wrapper.o
+ .text          0x00000000        0x0 stm32f4xx_init_board.o
+ .data          0x00000000        0x0 stm32f4xx_init_board.o
+ .bss           0x00000000        0x0 stm32f4xx_init_board.o
+ .text          0x00000000        0x0 stm32f4xx_rcc.o
+ .data          0x00000000        0x0 stm32f4xx_rcc.o
+ .bss           0x00000000        0x0 stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x34 stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x10 stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x30 stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x24 stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc stm32f4xx_rcc.o
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x30 stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x18 stm32f4xx_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc stm32f4xx_rcc.o
+ .text          0x00000000        0x0 stm32f4xx_spi.o
+ .data          0x00000000        0x0 stm32f4xx_spi.o
+ .bss           0x00000000        0x0 stm32f4xx_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x6c stm32f4xx_spi.o
+ .text.SPI_Init
+                0x00000000       0x40 stm32f4xx_spi.o
+ .text.I2S_Init
+                0x00000000       0xcc stm32f4xx_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x10 stm32f4xx_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x10 stm32f4xx_spi.o
+ .text.SPI_Cmd  0x00000000       0x18 stm32f4xx_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x14 stm32f4xx_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x18 stm32f4xx_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x1c stm32f4xx_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x18 stm32f4xx_spi.o
+ .text.SPI_TIModeCmd
+                0x00000000       0x18 stm32f4xx_spi.o
+ .text.I2S_FullDuplexConfig
+                0x00000000       0x40 stm32f4xx_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x4 stm32f4xx_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 stm32f4xx_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x18 stm32f4xx_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc stm32f4xx_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc stm32f4xx_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x4 stm32f4xx_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x1c stm32f4xx_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc stm32f4xx_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 stm32f4xx_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x28 stm32f4xx_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x14 stm32f4xx_spi.o
+ .text          0x00000000        0x0 stm32f4xx_usart.o
+ .data          0x00000000        0x0 stm32f4xx_usart.o
+ .bss           0x00000000        0x0 stm32f4xx_usart.o
+ .text.USART_DeInit
+                0x00000000       0xc8 stm32f4xx_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x20 stm32f4xx_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0x8 stm32f4xx_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x10 stm32f4xx_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x14 stm32f4xx_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x18 stm32f4xx_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 stm32f4xx_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 stm32f4xx_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x14 stm32f4xx_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x18 stm32f4xx_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x14 stm32f4xx_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x14 stm32f4xx_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x18 stm32f4xx_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc stm32f4xx_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x18 stm32f4xx_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x10 stm32f4xx_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x18 stm32f4xx_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x18 stm32f4xx_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x14 stm32f4xx_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x18 stm32f4xx_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c stm32f4xx_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc stm32f4xx_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 stm32f4xx_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x48 stm32f4xx_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x10 stm32f4xx_usart.o
+ .text          0x00000000        0x0 syscalls_stm32f4xx.o
+ .data          0x00000000        0x0 syscalls_stm32f4xx.o
+ .bss           0x00000000        0x0 syscalls_stm32f4xx.o
+ .text._close   0x00000000        0x8 syscalls_stm32f4xx.o
+ .text._fstat   0x00000000        0xc syscalls_stm32f4xx.o
+ .text._isatty  0x00000000        0x4 syscalls_stm32f4xx.o
+ .text._lseek   0x00000000        0x4 syscalls_stm32f4xx.o
+ .text._open    0x00000000        0x8 syscalls_stm32f4xx.o
+ .text._read    0x00000000        0x4 syscalls_stm32f4xx.o
+ .text._write   0x00000000        0x4 syscalls_stm32f4xx.o
+ .text._unlink  0x00000000        0x4 syscalls_stm32f4xx.o
+ .text          0x00000000        0x0 system_stm32f4xx.o
+ .data          0x00000000        0x0 system_stm32f4xx.o
+ .bss           0x00000000        0x0 system_stm32f4xx.o
+ .text          0x00000000        0x0 updown.o
+ .data          0x00000000        0x0 updown.o
+ .bss           0x00000000        0x0 updown.o
+ .data          0x00000000        0x0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/toolbox/target/supportpackages/stm32f4discovery/src/libpdmfilter.a(pdmfilter.o)
+ .text          0x00000000        0x0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .data          0x00000000        0x0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .bss           0x00000000        0x0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .text          0x00000000        0x0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+ .data          0x00000000        0x0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+ .bss           0x00000000        0x0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_fabs.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_fabs.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb8 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .data          0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+SRAM             0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         rw
+BACKUPRAM        0x40024000         0x00001000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD SysTickScheduler.o
+LOAD blapp_support.o
+LOAD ert_main.o
+LOAD ext_serial_pkt.o
+LOAD ext_svr.o
+LOAD ext_svr_serial_transport.o
+LOAD ext_work.o
+LOAD m3m4m4f_multitasking.o
+LOAD misc.o
+LOAD rtGetInf.o
+LOAD rtGetNaN.o
+LOAD rt_nonfinite.o
+LOAD rtiostream_serial_dma_stm32f4xx.o
+LOAD rtiostream_serial_interface.o
+LOAD rtiostream_utils.o
+LOAD startup_stm32f4xx.o
+LOAD stm32f4discovery_audio_common.o
+LOAD stm32f4discovery_mp45dt02_mems_mic.o
+LOAD stm32f4discovery_vadG729.o
+LOAD stm32f4discovery_vadG729_data.o
+LOAD stm32f4xx_dma.o
+LOAD stm32f4xx_gpio.o
+LOAD stm32f4xx_gpio_wrapper.o
+LOAD stm32f4xx_init_board.o
+LOAD stm32f4xx_rcc.o
+LOAD stm32f4xx_spi.o
+LOAD stm32f4xx_usart.o
+LOAD syscalls_stm32f4xx.o
+LOAD system_stm32f4xx.o
+LOAD updown.o
+LOAD C:/ProgramData/MATLAB/SupportPackages/R2019b_2/toolbox/target/supportpackages/stm32f4discovery/src/libpdmfilter.a
+LOAD C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a
+LOAD C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/RTOS/RTX/LIB/GCC/libRTX_CM4.a
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libstdc++_nano.a
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
+START GROUP
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+END GROUP
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.text           0x08000000     0x7d34
+ *(.vectors)
+ .vectors       0x08000000      0x188 startup_stm32f4xx.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text          0x08000188       0x40 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x080001c8       0x74 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x080001c8                _start
+                0x080001c8                _mainCRTStartup
+ .text.SysTick_Isr
+                0x0800023c       0x38 SysTickScheduler.o
+ .text.SysTick_Handler
+                0x08000274       0x2c SysTickScheduler.o
+                0x08000274                SysTick_Handler
+ .text.ARMCM_SysTick_Config
+                0x080002a0        0x4 SysTickScheduler.o
+                0x080002a0                ARMCM_SysTick_Config
+ .text.bootloaderInit
+                0x080002a4        0x4 blapp_support.o
+                0x080002a4                bootloaderInit
+ .text.rt_OneStep
+                0x080002a8       0x34 ert_main.o
+                0x080002a8                rt_OneStep
+ .text.startup.main
+                0x080002dc      0x108 ert_main.o
+                0x080002dc                main
+ .text.SetExtSerialPacket
+                0x080003e4      0x18c ext_serial_pkt.o
+                0x080003e4                SetExtSerialPacket
+ .text.GetExtSerialPacket
+                0x08000570      0x1e8 ext_serial_pkt.o
+                0x08000570                GetExtSerialPacket
+ .text.GetPkt   0x08000758       0x98 ext_svr.o
+ .text.UploadServerWork.part.5
+                0x080007f0       0xb4 ext_svr.o
+ .text.ProcessSelectTriggerSignalPkt.isra.3
+                0x080008a4       0xf8 ext_svr.o
+ .text.SendPktToHost
+                0x0800099c       0x4c ext_svr.o
+                0x0800099c                SendPktToHost
+ .text.ExtParseArgsAndInitUD
+                0x080009e8       0x40 ext_svr.o
+                0x080009e8                ExtParseArgsAndInitUD
+ .text.ExtWaitForStartPkt
+                0x08000a28        0xc ext_svr.o
+                0x08000a28                ExtWaitForStartPkt
+ .text.rt_UploadServerWork
+                0x08000a34       0x2c ext_svr.o
+                0x08000a34                rt_UploadServerWork
+ .text.rt_ExtModeInit
+                0x08000a60       0x20 ext_svr.o
+                0x08000a60                rt_ExtModeInit
+ .text.rt_ExtModeSleep
+                0x08000a80       0x10 ext_svr.o
+                0x08000a80                rt_ExtModeSleep
+ .text.rt_PktServerWork
+                0x08000a90      0x44c ext_svr.o
+                0x08000a90                rt_PktServerWork
+ .text.rt_ExtModeShutdown
+                0x08000edc       0xb0 ext_svr.o
+                0x08000edc                rt_ExtModeShutdown
+ .text.rt_UploadCheckTrigger
+                0x08000f8c       0x18 ext_svr.o
+                0x08000f8c                rt_UploadCheckTrigger
+ .text.rt_UploadCheckEndTrigger
+                0x08000fa4       0x14 ext_svr.o
+                0x08000fa4                rt_UploadCheckEndTrigger
+ .text.rt_UploadBufAddTimePoint
+                0x08000fb8       0x30 ext_svr.o
+                0x08000fb8                rt_UploadBufAddTimePoint
+ .text.ExtResetSerialConnection
+                0x08000fe8       0xb8 ext_svr_serial_transport.o
+ .text.ExtInit  0x080010a0        0x4 ext_svr_serial_transport.o
+                0x080010a0                ExtInit
+ .text.ExtOpenConnection
+                0x080010a4       0x10 ext_svr_serial_transport.o
+                0x080010a4                ExtOpenConnection
+ .text.ExtCloseConnection
+                0x080010b4        0xc ext_svr_serial_transport.o
+                0x080010b4                ExtCloseConnection
+ .text.ExtShutDown
+                0x080010c0       0x18 ext_svr_serial_transport.o
+                0x080010c0                ExtShutDown
+ .text.ExtProcessArgs
+                0x080010d8       0xdc ext_svr_serial_transport.o
+                0x080010d8                ExtProcessArgs
+ .text.ExtWaitForStartPktFromHost
+                0x080011b4        0x4 ext_svr_serial_transport.o
+                0x080011b4                ExtWaitForStartPktFromHost
+ .text.ExtUserDataCreate
+                0x080011b8        0x8 ext_svr_serial_transport.o
+                0x080011b8                ExtUserDataCreate
+ .text.ExtUserDataDestroy
+                0x080011c0        0x4 ext_svr_serial_transport.o
+                0x080011c0                ExtUserDataDestroy
+ .text.ExtGetHostPkt
+                0x080011c4      0x29c ext_svr_serial_transport.o
+                0x080011c4                ExtGetHostPkt
+ .text.ExtSetHostPkt
+                0x08001460      0x200 ext_svr_serial_transport.o
+                0x08001460                ExtSetHostPkt
+ .text.ExtModeSleep
+                0x08001660        0x4 ext_svr_serial_transport.o
+                0x08001660                ExtModeSleep
+ .text.ExtForceDisconnect
+                0x08001664       0x10 ext_svr_serial_transport.o
+                0x08001664                ExtForceDisconnect
+ .text.rtExtModeWaitForStartPkt
+                0x08001674       0x60 ext_work.o
+                0x08001674                rtExtModeWaitForStartPkt
+ .text.rtExtModeOneStep
+                0x080016d4       0x20 ext_work.o
+                0x080016d4                rtExtModeOneStep
+ .text.rtExtModeUpload
+                0x080016f4        0x4 ext_work.o
+                0x080016f4                rtExtModeUpload
+ .text.rtExtModeCheckEndTrigger
+                0x080016f8        0x4 ext_work.o
+                0x080016f8                rtExtModeCheckEndTrigger
+ .text.rtExtModeUploadCheckTrigger
+                0x080016fc        0x4 ext_work.o
+                0x080016fc                rtExtModeUploadCheckTrigger
+ .text.rtExtModeCheckInit
+                0x08001700        0x4 ext_work.o
+                0x08001700                rtExtModeCheckInit
+ .text.rtExtModeShutdown
+                0x08001704        0x4 ext_work.o
+                0x08001704                rtExtModeShutdown
+ .text.rtSetTFinalForExtMode
+                0x08001708        0x4 ext_work.o
+                0x08001708                rtSetTFinalForExtMode
+ .text.rtParseArgsForExtMode
+                0x0800170c        0x8 ext_work.o
+                0x0800170c                rtParseArgsForExtMode
+ .text.rtERTExtModeStartMsg
+                0x08001714        0x4 ext_work.o
+                0x08001714                rtERTExtModeStartMsg
+ .text.arm_cortex_m_call_thread_with_context_switch
+                0x08001718       0x30 m3m4m4f_multitasking.o
+                0x08001718                arm_cortex_m_call_thread_with_context_switch
+ .text.SVC_Handler
+                0x08001748       0x58 m3m4m4f_multitasking.o
+                0x08001748                SVC_Handler
+ .text.NVIC_Init
+                0x080017a0       0x5c misc.o
+                0x080017a0                NVIC_Init
+ *fill*         0x080017fc        0x4 
+ .text.rtGetInf
+                0x08001800       0x10 rtGetInf.o
+                0x08001800                rtGetInf
+ .text.rtGetInfF
+                0x08001810        0xc rtGetInf.o
+                0x08001810                rtGetInfF
+ *fill*         0x0800181c        0x4 
+ .text.rtGetMinusInf
+                0x08001820       0x10 rtGetInf.o
+                0x08001820                rtGetMinusInf
+ .text.rtGetMinusInfF
+                0x08001830        0xc rtGetInf.o
+                0x08001830                rtGetMinusInfF
+ *fill*         0x0800183c        0x4 
+ .text.rtGetNaN
+                0x08001840       0x10 rtGetNaN.o
+                0x08001840                rtGetNaN
+ .text.rtGetNaNF
+                0x08001850        0xc rtGetNaN.o
+                0x08001850                rtGetNaNF
+ .text.rt_InitInfAndNaN
+                0x0800185c       0x58 rt_nonfinite.o
+                0x0800185c                rt_InitInfAndNaN
+ .text.rtIsInfF
+                0x080018b4       0x34 rt_nonfinite.o
+                0x080018b4                rtIsInfF
+ .text.rtIsNaNF
+                0x080018e8       0x20 rt_nonfinite.o
+                0x080018e8                rtIsNaNF
+ .text.rtIOStreamOpen
+                0x08001908      0x1c8 rtiostream_serial_dma_stm32f4xx.o
+                0x08001908                rtIOStreamOpen
+ .text.rtIOStreamClose
+                0x08001ad0        0x4 rtiostream_serial_dma_stm32f4xx.o
+                0x08001ad0                rtIOStreamClose
+ .text.rtIOStreamSend
+                0x08001ad4       0x60 rtiostream_serial_dma_stm32f4xx.o
+                0x08001ad4                rtIOStreamSend
+ .text.DMA1_Stream6_IRQHandler
+                0x08001b34       0x24 rtiostream_serial_dma_stm32f4xx.o
+                0x08001b34                DMA1_Stream6_IRQHandler
+ .text.rtIOStreamRecv
+                0x08001b58       0x64 rtiostream_serial_dma_stm32f4xx.o
+                0x08001b58                rtIOStreamRecv
+ .text.DMA1_Stream5_IRQHandler
+                0x08001bbc       0x24 rtiostream_serial_dma_stm32f4xx.o
+                0x08001bbc                DMA1_Stream5_IRQHandler
+ .text.ExtSerialPortCreate
+                0x08001be0        0xc rtiostream_serial_interface.o
+                0x08001be0                ExtSerialPortCreate
+ .text.ExtSerialPortConnect
+                0x08001bec       0x58 rtiostream_serial_interface.o
+                0x08001bec                ExtSerialPortConnect
+ .text.ExtSerialPortDisconnect
+                0x08001c44       0x34 rtiostream_serial_interface.o
+                0x08001c44                ExtSerialPortDisconnect
+ .text.ExtSerialPortSetData
+                0x08001c78       0x24 rtiostream_serial_interface.o
+                0x08001c78                ExtSerialPortSetData
+ .text.ExtSerialPortDataPending
+                0x08001c9c       0x50 rtiostream_serial_interface.o
+                0x08001c9c                ExtSerialPortDataPending
+ .text.ExtSerialPortGetData
+                0x08001cec       0x60 rtiostream_serial_interface.o
+                0x08001cec                ExtSerialPortGetData
+ .text.rtIOStreamBlockingSend
+                0x08001d4c       0x30 rtiostream_utils.o
+                0x08001d4c                rtIOStreamBlockingSend
+ .text.rtIOStreamBlockingRecv
+                0x08001d7c       0x30 rtiostream_utils.o
+                0x08001d7c                rtIOStreamBlockingRecv
+ .text.Default_Handler
+                0x08001dac        0x4 startup_stm32f4xx.o
+                0x08001dac                RTC_Alarm_IRQHandler
+                0x08001dac                HASH_RNG_IRQHandler
+                0x08001dac                EXTI2_IRQHandler
+                0x08001dac                TIM8_CC_IRQHandler
+                0x08001dac                DebugMon_Handler
+                0x08001dac                TIM1_CC_IRQHandler
+                0x08001dac                DMA2_Stream5_IRQHandler
+                0x08001dac                HardFault_Handler
+                0x08001dac                PVD_IRQHandler
+                0x08001dac                SDIO_IRQHandler
+                0x08001dac                TAMP_STAMP_IRQHandler
+                0x08001dac                PendSV_Handler
+                0x08001dac                NMI_Handler
+                0x08001dac                CAN2_RX1_IRQHandler
+                0x08001dac                EXTI3_IRQHandler
+                0x08001dac                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08001dac                TIM1_UP_TIM10_IRQHandler
+                0x08001dac                TIM8_UP_TIM13_IRQHandler
+                0x08001dac                I2C3_ER_IRQHandler
+                0x08001dac                EXTI0_IRQHandler
+                0x08001dac                I2C2_EV_IRQHandler
+                0x08001dac                DMA1_Stream2_IRQHandler
+                0x08001dac                CAN1_RX0_IRQHandler
+                0x08001dac                FPU_IRQHandler
+                0x08001dac                OTG_HS_WKUP_IRQHandler
+                0x08001dac                UsageFault_Handler
+                0x08001dac                CAN2_SCE_IRQHandler
+                0x08001dac                DMA2_Stream2_IRQHandler
+                0x08001dac                SPI1_IRQHandler
+                0x08001dac                TIM6_DAC_IRQHandler
+                0x08001dac                TIM1_BRK_TIM9_IRQHandler
+                0x08001dac                DCMI_IRQHandler
+                0x08001dac                CAN2_RX0_IRQHandler
+                0x08001dac                DMA2_Stream3_IRQHandler
+                0x08001dac                USART6_IRQHandler
+                0x08001dac                USART3_IRQHandler
+                0x08001dac                CRYP_IRQHandler
+                0x08001dac                CAN1_RX1_IRQHandler
+                0x08001dac                UART5_IRQHandler
+                0x08001dac                DMA2_Stream0_IRQHandler
+                0x08001dac                TIM4_IRQHandler
+                0x08001dac                I2C1_EV_IRQHandler
+                0x08001dac                DMA1_Stream1_IRQHandler
+                0x08001dac                UART4_IRQHandler
+                0x08001dac                TIM3_IRQHandler
+                0x08001dac                RCC_IRQHandler
+                0x08001dac                TIM8_BRK_TIM12_IRQHandler
+                0x08001dac                EXTI15_10_IRQHandler
+                0x08001dac                ADC_IRQHandler
+                0x08001dac                DMA1_Stream7_IRQHandler
+                0x08001dac                TIM7_IRQHandler
+                0x08001dac                CAN2_TX_IRQHandler
+                0x08001dac                TIM5_IRQHandler
+                0x08001dac                DMA2_Stream7_IRQHandler
+                0x08001dac                I2C3_EV_IRQHandler
+                0x08001dac                EXTI9_5_IRQHandler
+                0x08001dac                RTC_WKUP_IRQHandler
+                0x08001dac                ETH_WKUP_IRQHandler
+                0x08001dac                SPI2_IRQHandler
+                0x08001dac                OTG_HS_EP1_IN_IRQHandler
+                0x08001dac                MemManage_Handler
+                0x08001dac                DMA1_Stream0_IRQHandler
+                0x08001dac                CAN1_TX_IRQHandler
+                0x08001dac                EXTI4_IRQHandler
+                0x08001dac                FSMC_IRQHandler
+                0x08001dac                ETH_IRQHandler
+                0x08001dac                OTG_HS_EP1_OUT_IRQHandler
+                0x08001dac                WWDG_IRQHandler
+                0x08001dac                TIM2_IRQHandler
+                0x08001dac                OTG_FS_WKUP_IRQHandler
+                0x08001dac                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08001dac                OTG_HS_IRQHandler
+                0x08001dac                EXTI1_IRQHandler
+                0x08001dac                USART2_IRQHandler
+                0x08001dac                I2C2_ER_IRQHandler
+                0x08001dac                DMA2_Stream1_IRQHandler
+                0x08001dac                CAN1_SCE_IRQHandler
+                0x08001dac                FLASH_IRQHandler
+                0x08001dac                DMA2_Stream4_IRQHandler
+                0x08001dac                BusFault_Handler
+                0x08001dac                USART1_IRQHandler
+                0x08001dac                OTG_FS_IRQHandler
+                0x08001dac                SPI3_IRQHandler
+                0x08001dac                DMA1_Stream4_IRQHandler
+                0x08001dac                I2C1_ER_IRQHandler
+                0x08001dac                DMA2_Stream6_IRQHandler
+ .text.Default_ResetHandler
+                0x08001db0       0x4c startup_stm32f4xx.o
+                0x08001db0                Reset_Handler
+                0x08001db0                Default_ResetHandler
+ .text.MW_I2S_Clock_config
+                0x08001dfc       0x34 stm32f4discovery_audio_common.o
+                0x08001dfc                MW_I2S_Clock_config
+ .text.MW_I2S_GetPrescaler
+                0x08001e30       0xb8 stm32f4discovery_audio_common.o
+                0x08001e30                MW_I2S_GetPrescaler
+ .text.MW_I2S_SetPrescaler
+                0x08001ee8       0x2c stm32f4discovery_audio_common.o
+                0x08001ee8                MW_I2S_SetPrescaler
+ .text.dma_mic_in_isr
+                0x08001f14       0x38 stm32f4discovery_mp45dt02_mems_mic.o
+ .text.stm32f4_mic_dma_init
+                0x08001f4c       0xc0 stm32f4discovery_mp45dt02_mems_mic.o
+                0x08001f4c                stm32f4_mic_dma_init
+ .text.DMA1_Stream3_IRQHandler
+                0x0800200c       0x44 stm32f4discovery_mp45dt02_mems_mic.o
+                0x0800200c                DMA1_Stream3_IRQHandler
+ .text.stm32f4_mems_mic_init
+                0x08002050       0xc8 stm32f4discovery_mp45dt02_mems_mic.o
+                0x08002050                stm32f4_mems_mic_init
+ .text.stm32f4discovery_vadG729_step
+                0x08002118     0x1c88 stm32f4discovery_vadG729.o
+                0x08002118                stm32f4discovery_vadG729_step
+ .text.stm32f4discovery_vadG729_initialize
+                0x08003da0      0x138 stm32f4discovery_vadG729.o
+                0x08003da0                stm32f4discovery_vadG729_initialize
+ .text.stm32f4discovery_vadG729_terminate
+                0x08003ed8       0xb0 stm32f4discovery_vadG729.o
+                0x08003ed8                stm32f4discovery_vadG729_terminate
+ .text.DMA_DeInit
+                0x08003f88      0x12c stm32f4xx_dma.o
+                0x08003f88                DMA_DeInit
+ .text.DMA_Init
+                0x080040b4       0x58 stm32f4xx_dma.o
+                0x080040b4                DMA_Init
+ .text.DMA_Cmd  0x0800410c       0x14 stm32f4xx_dma.o
+                0x0800410c                DMA_Cmd
+ .text.DMA_GetCurrDataCounter
+                0x08004120        0x8 stm32f4xx_dma.o
+                0x08004120                DMA_GetCurrDataCounter
+ .text.DMA_DoubleBufferModeCmd
+                0x08004128       0x14 stm32f4xx_dma.o
+                0x08004128                DMA_DoubleBufferModeCmd
+ .text.DMA_MemoryTargetConfig
+                0x0800413c        0xc stm32f4xx_dma.o
+                0x0800413c                DMA_MemoryTargetConfig
+ .text.DMA_GetCurrentMemoryTarget
+                0x08004148        0x8 stm32f4xx_dma.o
+                0x08004148                DMA_GetCurrentMemoryTarget
+ .text.DMA_GetCmdStatus
+                0x08004150        0x8 stm32f4xx_dma.o
+                0x08004150                DMA_GetCmdStatus
+ .text.DMA_ITConfig
+                0x08004158       0x40 stm32f4xx_dma.o
+                0x08004158                DMA_ITConfig
+ .text.DMA_GetITStatus
+                0x08004198       0x54 stm32f4xx_dma.o
+                0x08004198                DMA_GetITStatus
+ .text.DMA_ClearITPendingBit
+                0x080041ec       0x30 stm32f4xx_dma.o
+                0x080041ec                DMA_ClearITPendingBit
+ .text.GPIO_Init
+                0x0800421c       0x9c stm32f4xx_gpio.o
+                0x0800421c                GPIO_Init
+ .text.GPIO_StructInit
+                0x080042b8        0xc stm32f4xx_gpio.o
+                0x080042b8                GPIO_StructInit
+ .text.GPIO_WriteBit
+                0x080042c4        0xc stm32f4xx_gpio.o
+                0x080042c4                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x080042d0       0x2c stm32f4xx_gpio.o
+                0x080042d0                GPIO_PinAFConfig
+ .text.MW_GpioInit
+                0x080042fc       0x48 stm32f4xx_gpio_wrapper.o
+                0x080042fc                MW_GpioInit
+ .text.MW_GPIO_WriteBit
+                0x08004344       0x1c stm32f4xx_gpio_wrapper.o
+                0x08004344                MW_GPIO_WriteBit
+ .text.stm32f4xx_init_board
+                0x08004360       0x1c stm32f4xx_init_board.o
+                0x08004360                stm32f4xx_init_board
+ .text.RCC_PLLI2SCmd
+                0x0800437c        0xc stm32f4xx_rcc.o
+                0x0800437c                RCC_PLLI2SCmd
+ .text.RCC_GetClocksFreq
+                0x08004388       0x90 stm32f4xx_rcc.o
+                0x08004388                RCC_GetClocksFreq
+ .text.RCC_I2SCLKConfig
+                0x08004418        0xc stm32f4xx_rcc.o
+                0x08004418                RCC_I2SCLKConfig
+ .text.RCC_AHB1PeriphClockCmd
+                0x08004424       0x18 stm32f4xx_rcc.o
+                0x08004424                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x0800443c       0x18 stm32f4xx_rcc.o
+                0x0800443c                RCC_APB1PeriphClockCmd
+ .text.I2S_Cmd  0x08004454       0x18 stm32f4xx_spi.o
+                0x08004454                I2S_Cmd
+ .text.SPI_I2S_DMACmd
+                0x0800446c       0x14 stm32f4xx_spi.o
+                0x0800446c                SPI_I2S_DMACmd
+ .text.USART_Init
+                0x08004480       0xc0 stm32f4xx_usart.o
+                0x08004480                USART_Init
+ .text.USART_StructInit
+                0x08004540       0x14 stm32f4xx_usart.o
+                0x08004540                USART_StructInit
+ .text.USART_Cmd
+                0x08004554       0x18 stm32f4xx_usart.o
+                0x08004554                USART_Cmd
+ .text.USART_DMACmd
+                0x0800456c       0x14 stm32f4xx_usart.o
+                0x0800456c                USART_DMACmd
+ .text._exit    0x08004580        0x4 syscalls_stm32f4xx.o
+                0x08004580                _exit
+ .text._sbrk    0x08004584       0x40 syscalls_stm32f4xx.o
+                0x08004584                _sbrk
+ .text.SystemInit
+                0x080045c4       0xfc system_stm32f4xx.o
+                0x080045c4                SystemInit
+ .text.SystemCoreClockUpdate
+                0x080046c0       0x70 system_stm32f4xx.o
+                0x080046c0                SystemCoreClockUpdate
+ .text.UploadLogInfoTerm.part.2
+                0x08004730      0x1b0 updown.o
+ .text.SetParam
+                0x080048e0       0x90 updown.o
+                0x080048e0                SetParam
+ .text.UploadLogInfoReset
+                0x08004970       0xa0 updown.o
+                0x08004970                UploadLogInfoReset
+ .text.UploadLogInfoTerm
+                0x08004a10       0x18 updown.o
+                0x08004a10                UploadLogInfoTerm
+ .text.UploadPrepareForFinalFlush
+                0x08004a28       0x28 updown.o
+                0x08004a28                UploadPrepareForFinalFlush
+ .text.UploadLogInfoInit
+                0x08004a50      0x238 updown.o
+                0x08004a50                UploadLogInfoInit
+ .text.UploadInitTrigger
+                0x08004c88      0x188 updown.o
+                0x08004c88                UploadInitTrigger
+ .text.UploadArmTrigger
+                0x08004e10       0x5c updown.o
+                0x08004e10                UploadArmTrigger
+ .text.UploadEndLoggingSession
+                0x08004e6c       0x28 updown.o
+                0x08004e6c                UploadEndLoggingSession
+ .text.UploadCancelLogging
+                0x08004e94       0x34 updown.o
+                0x08004e94                UploadCancelLogging
+ .text.UploadBufDataSent
+                0x08004ec8       0x3c updown.o
+                0x08004ec8                UploadBufDataSent
+ .text.UploadBufAddTimePoint
+                0x08004f04      0x610 updown.o
+                0x08004f04                UploadBufAddTimePoint
+ .text.UploadCheckTrigger
+                0x08005514       0x9c updown.o
+                0x08005514                UploadCheckTrigger
+ .text.UploadCheckEndTrigger
+                0x080055b0       0x2c updown.o
+                0x080055b0                UploadCheckEndTrigger
+ .text.UploadBufGetData
+                0x080055dc      0x148 updown.o
+                0x080055dc                UploadBufGetData
+ .text          0x08005724      0x1d0 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/toolbox/target/supportpackages/stm32f4discovery/src/libpdmfilter.a(pdmfilter.o)
+                0x08005724                pdm_filter
+ .text.arm_biquad_cascade_df2T_f32
+                0x080058f4      0x15c C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+                0x080058f4                arm_biquad_cascade_df2T_f32
+ .text.arm_biquad_cascade_df2T_init_f32
+                0x08005a50       0x18 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+                0x08005a50                arm_biquad_cascade_df2T_init_f32
+ .text.acos     0x08005a68       0xb8 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+                0x08005a68                acos
+ .text.fmod     0x08005b20       0xd0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+                0x08005b20                fmod
+ .text.log10    0x08005bf0      0x100 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+                0x08005bf0                log10
+ .text.__ieee754_acos
+                0x08005cf0      0x4d8 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o)
+                0x08005cf0                __ieee754_acos
+ .text.__ieee754_fmod
+                0x080061c8      0x248 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+                0x080061c8                __ieee754_fmod
+ .text.__ieee754_log10
+                0x08006410      0x13c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o)
+                0x08006410                __ieee754_log10
+ .text.__ieee754_sqrt
+                0x0800654c      0x194 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_sqrt.o)
+                0x0800654c                __ieee754_sqrt
+ .text.fabs     0x080066e0       0x14 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_fabs.o)
+                0x080066e0                fabs
+ .text.matherr  0x080066f4        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_matherr.o)
+                0x080066f4                matherr
+ .text.nan      0x080066f8       0x10 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_nan.o)
+                0x080066f8                nan
+ .text.__ieee754_log
+                0x08006708      0x3b4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log.o)
+                0x08006708                __ieee754_log
+ .text          0x08006abc      0x378 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x08006abc                __aeabi_drsub
+                0x08006ac4                __aeabi_dsub
+                0x08006ac4                __subdf3
+                0x08006ac8                __aeabi_dadd
+                0x08006ac8                __adddf3
+                0x08006d40                __floatunsidf
+                0x08006d40                __aeabi_ui2d
+                0x08006d60                __floatsidf
+                0x08006d60                __aeabi_i2d
+                0x08006d84                __aeabi_f2d
+                0x08006d84                __extendsfdf2
+                0x08006dc8                __floatundidf
+                0x08006dc8                __aeabi_ul2d
+                0x08006dd8                __floatdidf
+                0x08006dd8                __aeabi_l2d
+ .text          0x08006e34      0x424 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x08006e34                __aeabi_dmul
+                0x08006e34                __muldf3
+                0x08007088                __divdf3
+                0x08007088                __aeabi_ddiv
+ .text          0x08007258      0x110 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+                0x08007258                __gtdf2
+                0x08007258                __gedf2
+                0x08007260                __ltdf2
+                0x08007260                __ledf2
+                0x08007268                __nedf2
+                0x08007268                __eqdf2
+                0x08007268                __cmpdf2
+                0x080072e4                __aeabi_cdrcmple
+                0x080072f4                __aeabi_cdcmpeq
+                0x080072f4                __aeabi_cdcmple
+                0x08007304                __aeabi_dcmpeq
+                0x08007318                __aeabi_dcmplt
+                0x0800732c                __aeabi_dcmple
+                0x08007340                __aeabi_dcmpge
+                0x08007354                __aeabi_dcmpgt
+ .text          0x08007368       0x2c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+                0x08007368                __unorddf2
+                0x08007368                __aeabi_dcmpun
+ .text          0x08007394       0x40 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x08007394                __aeabi_d2uiz
+                0x08007394                __fixunsdfsi
+ .text          0x080073d4       0xa0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+                0x080073d4                __truncdfsf2
+                0x080073d4                __aeabi_d2f
+ .text.calloc   0x08007474       0x10 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+                0x08007474                calloc
+ .text.__errno  0x08007484        0xc c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-errno.o)
+                0x08007484                __errno
+ .text.exit     0x08007490       0x28 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                0x08007490                exit
+ .text.__libc_init_array
+                0x080074b8       0x48 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                0x080074b8                __libc_init_array
+ .text.malloc   0x08007500       0x10 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                0x08007500                malloc
+ .text.free     0x08007510       0x10 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                0x08007510                free
+ .text.memcpy   0x08007520       0x16 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                0x08007520                memcpy
+ .text.memset   0x08007536       0x10 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                0x08007536                memset
+ .text._calloc_r
+                0x08007546       0x1c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+                0x08007546                _calloc_r
+ *fill*         0x08007562        0x2 
+ .text._free_r  0x08007564       0x9c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                0x08007564                _free_r
+ .text._malloc_r
+                0x08007600       0xb4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x08007600                _malloc_r
+ .text._sbrk_r  0x080076b4       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                0x080076b4                _sbrk_r
+ .text          0x080076d4       0x14 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+                0x080076d4                strcmp
+ .text.__malloc_lock
+                0x080076e8        0x2 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x080076e8                __malloc_lock
+ .text.__malloc_unlock
+                0x080076ea        0x2 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x080076ea                __malloc_unlock
+ *(.init)
+ .init          0x080076ec        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x080076ec                _init
+ .init          0x080076f0        0x8 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini)
+ .fini          0x080076f8        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x080076f8                _fini
+ .fini          0x080076fc        0x8 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.ExtParseArgsAndInitUD.str1.4
+                0x08007704       0x3b ext_svr.o
+ *fill*         0x0800773f        0x1 
+ .rodata.ExtProcessArgs.str1.4
+                0x08007740       0x2b ext_svr_serial_transport.o
+ *fill*         0x0800776b        0x1 
+ .rodata.c.12631
+                0x0800776c      0x3c0 stm32f4discovery_vadG729.o
+ .rodata.rtAlwaysEnabled.12677
+                0x08007b2c        0x1 stm32f4discovery_vadG729.o
+ *fill*         0x08007b2d        0x3 
+ .rodata.stm32f4discovery_vadG729_M
+                0x08007b30        0x4 stm32f4discovery_vadG729.o
+                0x08007b30                stm32f4discovery_vadG729_M
+ .rodata.stm32f4discovery_vadG729_step.str1.4
+                0x08007b34       0x14 stm32f4discovery_vadG729.o
+ .rodata.str1.4
+                0x08007b48      0x198 stm32f4discovery_vadG729.o
+ .rodata.GPIO_base_array
+                0x08007ce0       0x24 stm32f4xx_gpio_wrapper.o
+ .rodata.acos.str1.4
+                0x08007d04        0x5 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+                                  0x9 (size before relaxing)
+ *fill*         0x08007d09        0x3 
+ .rodata.fmod.str1.4
+                0x08007d0c        0x5 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+ *fill*         0x08007d11        0x3 
+ .rodata.log10.str1.4
+                0x08007d14        0x8 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+                                  0x9 (size before relaxing)
+ *fill*         0x08007d1c        0x4 
+ .rodata.Zero   0x08007d20       0x10 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+ .rodata._global_impure_ptr
+                0x08007d30        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x08007d30                _global_impure_ptr
+ *(.eh_fram e*)
+
+.eh_frame       0x08007d34        0x0
+ .eh_frame      0x08007d34        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.glue_7         0x08007d34        0x0
+ .glue_7        0x08007d34        0x0 linker stubs
+
+.glue_7t        0x08007d34        0x0
+ .glue_7t       0x08007d34        0x0 linker stubs
+
+.vfp11_veneer   0x08007d34        0x0
+ .vfp11_veneer  0x08007d34        0x0 linker stubs
+
+.v4_bx          0x08007d34        0x0
+ .v4_bx         0x08007d34        0x0 linker stubs
+
+.iplt           0x08007d34        0x0
+ .iplt          0x08007d34        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08007d34                __exidx_start = .
+
+.ARM.exidx      0x08007d34        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x08007d34        0x8 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x08007d3c                __exidx_end = .
+
+.rel.dyn        0x08007d3c        0x0
+ .rel.iplt      0x08007d3c        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x08007d3c                . = ALIGN (0x4)
+                0x08007d3c                _etext = .
+                0x08007d3c                _sidata = .
+
+.data           0x20000000      0x21c load address 0x08007d3c
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data.modelStatus
+                0x20000000        0x1 ext_work.o
+                0x20000000                modelStatus
+ *fill*         0x20000001        0x3 
+ .data.rtBTransTable
+                0x20000004        0x8 stm32f4discovery_vadG729.o
+ .data.rtBTransitions
+                0x2000000c       0xb0 stm32f4discovery_vadG729.o
+ .data.rtDataTypeNames
+                0x200000bc       0x58 stm32f4discovery_vadG729.o
+ .data.rtDataTypeSizes
+                0x20000114       0x58 stm32f4discovery_vadG729.o
+ .data.rtPTransTable
+                0x2000016c        0x8 stm32f4discovery_vadG729.o
+ .data.rtPTransitions
+                0x20000174       0x10 stm32f4discovery_vadG729.o
+ .data.stm32f4discovery_vadG729_P
+                0x20000184        0x4 stm32f4discovery_vadG729_data.o
+                0x20000184                stm32f4discovery_vadG729_P
+ .data.APBAHBPrescTable
+                0x20000188       0x10 stm32f4xx_rcc.o
+ .data.AHBPrescTable
+                0x20000198       0x10 system_stm32f4xx.o
+                0x20000198                AHBPrescTable
+ .data.SystemCoreClock
+                0x200001a8        0x4 system_stm32f4xx.o
+                0x200001a8                SystemCoreClock
+ .data.firstTime.10186
+                0x200001ac        0x2 updown.o
+ .data.__fdlib_version
+                0x200001ae        0x1 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_lib_ver.o)
+                0x200001ae                __fdlib_version
+ *fill*         0x200001af        0x1 
+ .data._impure_ptr
+                0x200001b0        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x200001b0                _impure_ptr
+ .data.impure_data
+                0x200001b4       0x60 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x20000214                . = ALIGN (0x4)
+                0x20000214                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000214                PROVIDE (__preinit_array_end, .)
+                0x20000214                . = ALIGN (0x4)
+                0x20000214                PROVIDE (__init_array_start, .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000214        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x20000218                PROVIDE (__init_array_end, .)
+                0x20000218                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000218        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x2000021c                . = ALIGN (0x4)
+                0x2000021c                __data_end__ = .
+                0x2000021c                _edata = __data_end__
+
+.igot.plt       0x2000021c        0x0 load address 0x08007f58
+ .igot.plt      0x2000021c        0x0 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss            0x20000220     0x27f8 load address 0x08007f60
+                0x20000220                . = ALIGN (0x4)
+                0x20000220                _sbss = .
+                0x20000220                __bss_start__ = _sbss
+ *(.bss .bss.*)
+ .bss           0x20000220       0x1c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss.IsrOverrun
+                0x2000023c        0x4 ert_main.o
+                0x2000023c                IsrOverrun
+ .bss.OverrunFlag
+                0x20000240        0x1 ert_main.o
+ .bss.runModel  0x20000241        0x1 ert_main.o
+                0x20000241                runModel
+ .bss.stopRequested
+                0x20000242        0x1 ert_main.o
+                0x20000242                stopRequested
+ .bss.commInitialized
+                0x20000243        0x1 ext_svr.o
+ .bss.connected
+                0x20000244        0x1 ext_svr.o
+ *fill*         0x20000245        0x3 
+ .bss.extUD     0x20000248        0x4 ext_svr.o
+ .bss.gblSetParamPktReceived
+                0x2000024c        0x1 ext_svr.o
+                0x2000024c                gblSetParamPktReceived
+ *fill*         0x2000024d        0x3 
+ .bss.pktBuf    0x20000250        0x4 ext_svr.o
+ .bss.pktBufSize
+                0x20000254        0x4 ext_svr.o
+ .bss.FreeFIFOHead
+                0x20000258        0x4 ext_svr_serial_transport.o
+ .bss.FreeFIFOTail
+                0x2000025c        0x4 ext_svr_serial_transport.o
+ .bss.PktFIFOHead
+                0x20000260        0x4 ext_svr_serial_transport.o
+ .bss.PktFIFOTail
+                0x20000264        0x4 ext_svr_serial_transport.o
+ .bss.UD.10177  0x20000268        0x8 ext_svr_serial_transport.o
+ .bss.buffer1st
+                0x20000270       0x24 ext_svr_serial_transport.o
+ .bss.buffer2nd
+                0x20000294       0x24 ext_svr_serial_transport.o
+ .bss.waitForAck
+                0x200002b8        0x1 ext_svr_serial_transport.o
+ *fill*         0x200002b9        0x3 
+ .bss.startModel
+                0x200002bc        0x4 ext_work.o
+                0x200002bc                startModel
+ .bss.MW_USART_ERRNO
+                0x200002c0        0x4 rtiostream_serial_dma_stm32f4xx.o
+                0x200002c0                MW_USART_ERRNO
+ .bss.UART_Rx   0x200002c4        0x8 rtiostream_serial_dma_stm32f4xx.o
+ .bss.UART_Tx   0x200002cc       0x48 rtiostream_serial_dma_stm32f4xx.o
+ .bss.UART_rxBuffer
+                0x20000314      0x800 rtiostream_serial_dma_stm32f4xx.o
+ .bss.UART_txBuffer
+                0x20000b14      0x400 rtiostream_serial_dma_stm32f4xx.o
+ .bss.UD        0x20000f14        0x4 rtiostream_serial_interface.o
+ .bss.serialPort.10014
+                0x20000f18        0x2 rtiostream_serial_interface.o
+ *fill*         0x20000f1a        0x2 
+ .bss.dtInfo.12680
+                0x20000f1c       0x28 stm32f4discovery_vadG729.o
+ .bss.rt_ExtModeInfo.12678
+                0x20000f44       0x14 stm32f4discovery_vadG729.o
+ .bss.systemRan.12679
+                0x20000f58        0x8 stm32f4discovery_vadG729.o
+ .bss.heap_end  0x20000f60        0x4 syscalls_stm32f4xx.o
+                0x20000f60                heap_end
+ .bss.host_upstatus_is_uploading
+                0x20000f64        0x1 updown.o
+                0x20000f64                host_upstatus_is_uploading
+ *fill*         0x20000f65        0x3 
+ .bss.uploadInfoArray
+                0x20000f68       0xe0 updown.o
+ .bss           0x20001048       0x10 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/toolbox/target/supportpackages/stm32f4discovery/src/libpdmfilter.a(pdmfilter.o)
+ .bss.__malloc_free_list
+                0x20001058        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20001058                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x2000105c        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x2000105c                __malloc_sbrk_start
+ *(COMMON)
+ COMMON         0x20001060        0x8 SysTickScheduler.o
+                0x20001060                schdl_counter_max
+                0x20001064                schdl_counter
+ COMMON         0x20001068       0x24 rt_nonfinite.o
+                0x20001068                rtNaNF
+                0x2000106c                rtInfF
+                0x20001070                rtInf
+                0x20001078                rtNaN
+                0x20001080                rtMinusInf
+                0x20001088                rtMinusInfF
+ COMMON         0x2000108c      0x5a4 stm32f4discovery_mp45dt02_mems_mic.o
+                0x2000108c                MW_MIC_Data1
+                0x2000130c                MW_MIC_Data0
+                0x2000158c                MW_pcm_data_holder
+                0x20001590                MW_pcm_data0
+ COMMON         0x20001630     0x13e4 stm32f4discovery_vadG729.o
+                0x20001630                stm32f4discovery_vadG729_M_
+                0x20001678                stm32f4discovery_vadG729_DW
+                0x20001c60                stm32f4discovery_vadG729_B
+ COMMON         0x20002a14        0x4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x20002a14                errno
+                0x20002a18                . = ALIGN (0x4)
+                0x20002a18                _ebss = .
+                0x20002a18                __bss_end__ = _ebss
+
+.co_stack       0x10000000     0x2040
+                0x10000000                . = ALIGN (0x8)
+                0x10000000                __stack_end__ = .
+ *(.co_stack .co_stack.*)
+ .co_stack      0x10000000     0x2040 startup_stm32f4xx.o
+                0x10000000                pulStack
+                0x10002040                __stack_start__ = .
+                0x10002040                . = ALIGN (0x8)
+                0x10002040                _end_ccmram = .
+                0x10002040                PROVIDE (_sheap, _end_ccmram)
+                0x10010000                PROVIDE (_eheap, ALIGN ((ORIGIN (CCMRAM) + LENGTH (CCMRAM)), 0x8))
+                0x10002040                PROVIDE (__stack, __stack_start__)
+OUTPUT(../stm32f4discovery_vadG729.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x39 SysTickScheduler.o
+ .ARM.attributes
+                0x000000af       0x39 blapp_support.o
+ .ARM.attributes
+                0x000000e8       0x39 ert_main.o
+ .ARM.attributes
+                0x00000121       0x39 ext_serial_pkt.o
+ .ARM.attributes
+                0x0000015a       0x39 ext_svr.o
+ .ARM.attributes
+                0x00000193       0x39 ext_svr_serial_transport.o
+ .ARM.attributes
+                0x000001cc       0x39 ext_work.o
+ .ARM.attributes
+                0x00000205       0x39 m3m4m4f_multitasking.o
+ .ARM.attributes
+                0x0000023e       0x39 misc.o
+ .ARM.attributes
+                0x00000277       0x39 rtGetInf.o
+ .ARM.attributes
+                0x000002b0       0x39 rtGetNaN.o
+ .ARM.attributes
+                0x000002e9       0x39 rt_nonfinite.o
+ .ARM.attributes
+                0x00000322       0x39 rtiostream_serial_dma_stm32f4xx.o
+ .ARM.attributes
+                0x0000035b       0x39 rtiostream_serial_interface.o
+ .ARM.attributes
+                0x00000394       0x39 rtiostream_utils.o
+ .ARM.attributes
+                0x000003cd       0x39 startup_stm32f4xx.o
+ .ARM.attributes
+                0x00000406       0x39 stm32f4discovery_audio_common.o
+ .ARM.attributes
+                0x0000043f       0x39 stm32f4discovery_mp45dt02_mems_mic.o
+ .ARM.attributes
+                0x00000478       0x39 stm32f4discovery_vadG729.o
+ .ARM.attributes
+                0x000004b1       0x39 stm32f4discovery_vadG729_data.o
+ .ARM.attributes
+                0x000004ea       0x39 stm32f4xx_dma.o
+ .ARM.attributes
+                0x00000523       0x39 stm32f4xx_gpio.o
+ .ARM.attributes
+                0x0000055c       0x39 stm32f4xx_gpio_wrapper.o
+ .ARM.attributes
+                0x00000595       0x39 stm32f4xx_init_board.o
+ .ARM.attributes
+                0x000005ce       0x39 stm32f4xx_rcc.o
+ .ARM.attributes
+                0x00000607       0x39 stm32f4xx_spi.o
+ .ARM.attributes
+                0x00000640       0x39 stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000679       0x39 syscalls_stm32f4xx.o
+ .ARM.attributes
+                0x000006b2       0x39 system_stm32f4xx.o
+ .ARM.attributes
+                0x000006eb       0x39 updown.o
+ .ARM.attributes
+                0x00000724       0x3b C:/ProgramData/MATLAB/SupportPackages/R2019b_2/toolbox/target/supportpackages/stm32f4discovery/src/libpdmfilter.a(pdmfilter.o)
+ .ARM.attributes
+                0x0000075f       0x39 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .ARM.attributes
+                0x00000798       0x39 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+ .ARM.attributes
+                0x000007d1       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+ .ARM.attributes
+                0x00000805       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+ .ARM.attributes
+                0x00000839       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+ .ARM.attributes
+                0x0000086d       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o)
+ .ARM.attributes
+                0x000008a1       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+ .ARM.attributes
+                0x000008d5       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o)
+ .ARM.attributes
+                0x00000909       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000093d       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000971       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000009a5       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x000009d9       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x00000a0d       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log.o)
+ .ARM.attributes
+                0x00000a41       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000a63       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000a85       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000aa7       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000ac9       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000aeb       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000b0d       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+ .ARM.attributes
+                0x00000b41       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000b75       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000ba9       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000bdd       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000c11       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000c45       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000c79       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000cad       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+ .ARM.attributes
+                0x00000ce1       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000d15       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000d49       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000d7d       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000db1       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000dd1       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000e05       0x22 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x00000000      0x15c
+ .comment       0x00000000       0x7e SysTickScheduler.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f blapp_support.o
+ .comment       0x0000007e       0x7f ert_main.o
+ .comment       0x0000007e       0x7f ext_serial_pkt.o
+ .comment       0x0000007e       0x7f ext_svr.o
+ .comment       0x0000007e       0x7f ext_svr_serial_transport.o
+ .comment       0x0000007e       0x7f ext_work.o
+ .comment       0x0000007e       0x7f m3m4m4f_multitasking.o
+ .comment       0x0000007e       0x7f misc.o
+ .comment       0x0000007e       0x7f rtGetInf.o
+ .comment       0x0000007e       0x7f rtGetNaN.o
+ .comment       0x0000007e       0x7f rt_nonfinite.o
+ .comment       0x0000007e       0x7f rtiostream_serial_dma_stm32f4xx.o
+ .comment       0x0000007e       0x7f rtiostream_serial_interface.o
+ .comment       0x0000007e       0x7f rtiostream_utils.o
+ .comment       0x0000007e       0x7f startup_stm32f4xx.o
+ .comment       0x0000007e       0x7f stm32f4discovery_audio_common.o
+ .comment       0x0000007e       0x7f stm32f4discovery_mp45dt02_mems_mic.o
+ .comment       0x0000007e       0x7f stm32f4discovery_vadG729.o
+ .comment       0x0000007e       0x7f stm32f4discovery_vadG729_data.o
+ .comment       0x0000007e       0x7f stm32f4xx_dma.o
+ .comment       0x0000007e       0x7f stm32f4xx_gpio.o
+ .comment       0x0000007e       0x7f stm32f4xx_gpio_wrapper.o
+ .comment       0x0000007e       0x7f stm32f4xx_init_board.o
+ .comment       0x0000007e       0x7f stm32f4xx_rcc.o
+ .comment       0x0000007e       0x7f stm32f4xx_spi.o
+ .comment       0x0000007e       0x7f stm32f4xx_usart.o
+ .comment       0x0000007e       0x7f syscalls_stm32f4xx.o
+ .comment       0x0000007e       0x7f system_stm32f4xx.o
+ .comment       0x0000007e       0x7f updown.o
+ .comment       0x0000007e       0x70 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/toolbox/target/supportpackages/stm32f4discovery/src/libpdmfilter.a(pdmfilter.o)
+                                 0x71 (size before relaxing)
+ .comment       0x000000ee       0x6e C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+                                 0x6f (size before relaxing)
+ .comment       0x0000015c       0x6f C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+
+.debug_info     0x00000000      0x490
+ .debug_info    0x00000000      0x301 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .debug_info    0x00000301      0x18f C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+
+.debug_abbrev   0x00000000      0x1cc
+ .debug_abbrev  0x00000000      0x104 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .debug_abbrev  0x00000104       0xc8 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+
+.debug_loc      0x00000000      0xb1c
+ .debug_loc     0x00000000      0xa5a C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .debug_loc     0x00000a5a       0xc2 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+
+.debug_aranges  0x00000000       0x40
+ .debug_aranges
+                0x00000000       0x20 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .debug_aranges
+                0x00000020       0x20 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x10 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .debug_ranges  0x00000010       0x10 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+
+.debug_line     0x00000000      0x2f7
+ .debug_line    0x00000000      0x197 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .debug_line    0x00000197      0x160 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+
+.debug_str      0x00000000      0x2e1
+ .debug_str     0x00000000      0x276 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+                                0x2c7 (size before relaxing)
+ .debug_str     0x00000276       0x6b C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+                                0x29e (size before relaxing)
+
+.debug_frame    0x00000000      0x76c
+ .debug_frame   0x00000000       0x34 C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_f32.o)
+ .debug_frame   0x00000034       0x2c C:/ProgramData/MATLAB/SupportPackages/R2019b_2/3P.instrset/cmsis.instrset/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a(arm_biquad_cascade_df2t_init_f32.o)
+ .debug_frame   0x00000060       0x4c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_acos.o)
+ .debug_frame   0x000000ac       0x4c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_fmod.o)
+ .debug_frame   0x000000f8       0x48 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-w_log10.o)
+ .debug_frame   0x00000140       0x38 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_acos.o)
+ .debug_frame   0x00000178       0x34 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_fmod.o)
+ .debug_frame   0x000001ac       0x48 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log10.o)
+ .debug_frame   0x000001f4       0x30 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00000224       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x00000244       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00000264       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00000284       0x4c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-e_log.o)
+ .debug_frame   0x000002d0       0xac c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000037c       0x50 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x000003cc       0xc4 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000490       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x000004b0       0x24 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x000004d4       0x24 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x000004f8       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+ .debug_frame   0x00000518       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000538       0x28 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000560       0x2c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000058c       0x30 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x000005bc       0x28 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000005e4       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000604       0x2c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+ .debug_frame   0x00000630       0x38 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000668       0x2c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000694       0x5c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x000006f0       0x2c c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000071c       0x20 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x0000073c       0x30 c:/progra~3/matlab/suppor~1/r2019b_2/3p778c~1.ins/gnuarm~1.ins/win/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)

@@ -1,0 +1,74 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   8 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "biquad"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:529-535"\
+    }\
+    ChartData {\
+      Name         "biquad_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:529-535"\
+    }\
+    ChartData {\
+      Name         "autocorr"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:536-544"\
+    }\
+    ChartData {\
+      Name         "levSolver1"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:545-555"\
+    }\
+    ChartData {\
+      Name         "levSolver2"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:556-566"\
+    }\
+    ChartData {\
+      Name         "lpc2lsf"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:567-574"\
+    }\
+    ChartData {\
+      Name         "zerodet"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:575-582"\
+    }\
+    ChartData {\
+      Name         "VAD_var_param"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "D:\Matlab_2019b\toolbox\dsp\dspdemos\vadG729.m:583-596"\
+    }\
+  }
+  %return ChartDataElements
+%endfunction
