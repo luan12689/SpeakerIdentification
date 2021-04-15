@@ -93,6 +93,11 @@ end
     title_speech=sprintf('WORD NUMBER %d',k);
     title(title_speech);
   end  
+  
+for i = 1:length(word)
+    word{i}(word{i}==0) = []
+end    
+  
 
 timeElapsed = toc;
 disp(timeElapsed);
