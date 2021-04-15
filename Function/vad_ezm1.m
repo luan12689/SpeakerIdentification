@@ -16,9 +16,9 @@ silence = 0;
 %  amp2=2*ampth; amp1=4*ampth;% set energy and zero crossing rate threshold
 %  zcr2=2*zcrth;
  
-amp1 = 2;         
-amp2 = 0.5;        
-zcr2 = 1; 
+amp1 = 1;         
+amp2 = 0.25;        
+zcr2 = 0.5; 
 
  % Start endpoint detection
 xn=1;
