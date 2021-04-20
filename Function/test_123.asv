@@ -1,0 +1,30 @@
+password = 123456';
+
+for i = 1: 6
+    word{i} = i;
+end    
+
+% x = checkpass(word,password)
+% disp (x);
+
+% function flag = checkpass(word,password) 
+%     k = [];
+    
+    for jj = 1:length(password)
+        if (word{jj} == password(jj))
+%             k=k+1;
+            disp ('matches');
+        else
+            disp ('no matches');
+%              break;   
+        end
+    end
+    
+%     if (k == length(password))
+%         flag = 1;
+%         
+%     else
+%         flag = 0;
+%          
+%     end
+% end    
