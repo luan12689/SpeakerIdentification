@@ -2,7 +2,7 @@ function [k,flag] = checkpass(word,password)
     k = 0;
     
     for jj = 1:length(password)
-        if (word{jj} == password(jj))
+        if (word(jj) == password(jj))
             k=k+1;
             disp ('match');
         else
