@@ -28,13 +28,21 @@
 %     end
 % end    
 % 
-% 
-% 
-j = 0;
-for i = 3:5
-    j=j+1
-    a(j)=i;
-    disp(a);
-end    
+% % 
+% % 
+% j = 0;
+% for i = 3:5
+%     j=j+1
+%     a(j)=i;
+%     disp(a);
+% end
+
+a = 123456;
+
+
+
+
+
+
 
 

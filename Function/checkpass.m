@@ -16,4 +16,5 @@ function [k,flag] = checkpass(word,password)
     else
         flag = 0;
     end
+    
 end    
